@@ -1,8 +1,17 @@
-# <h1 align="center">Hi 👋, I'm MD SABBIR HASAN</h1>
-<h3 align="center">LARAVEL || WORDPRESS DEVELPOER</h3>
+<h1 align="center">Hi 👋, I'm MD SABBIR HASAN</h1>
+<h3 align="center">Laravel & WordPress Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-nasim-lomani&label=Profile%20views&color=0e75b6&style=flat" alt="abu-nasim-lomani" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbir-sh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://sabbir-sh.github.io/Onpage-Website/)
+<p align="center">
+  👨‍💻 All of my projects are available at  
+  <a href="https://sabbir-sh.github.io/Onpage-Website/" target="_blank">
+    <strong>My Portfolio</strong>
+  </a>
+</p>
 
-- 📫 How to reach me *sabbirhasan.web@gmail.com*
+<p align="center">
+  📫 How to reach me: <a href="mailto:sabbirhasan.web@gmail.com">sabbirhasan.web@gmail.com</a>
+</p>
