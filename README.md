@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm **MD SABBIR HASAN**, a passionate **Laravel & 
 
 ## 🌟 Profile Links
 - [LinkedIn](https://www.linkedin.com/in/md-sabbir-hasan-42352218b)
-- 📧 Email: [sabbir.hasan.780@gmail.com](mailto:sabbir.hasan.780@gmail.com)
+- [Facebook](https://www.facebook.com/sabbir.hasan.780)
+- 📧 Email: [sabbirhasan.web@gmail.com](mailto:sabbirhasan.web@gmail.com)
 
 ## 💼 My Projects
 All of my projects can be found on my personal website and GitHub repositories:
