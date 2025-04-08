@@ -17,28 +17,29 @@ All of my projects can be found on my personal website and GitHub repositories:
 
 ## 🛠️ Technologies & Tools
 
-### Backend:
-- Laravel
-- PHP
+This project utilizes a modern tech stack designed for performance, flexibility, and scalability in both frontend and backend development.
 
-### Frontend:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap 5
+### 🔧 Backend
+- **Laravel** – MVC framework for structured, scalable PHP applications
+- **PHP** – Core backend language for server-side logic
 
-### CMS:
-- WordPress
-- WooCommerce
+### 🎨 Frontend
+- **HTML5** – Markup language for structuring content
+- **CSS3** – Styling and layout with modern design practices
+- **JavaScript** – Interactive elements and DOM manipulation
+- **Bootstrap 5** – Responsive UI framework with prebuilt components
 
-### Version Control:
-- Git
-- GitHub
+### 📦 CMS & E-Commerce
+- **WordPress** – CMS for content management and blogging
+- **WooCommerce** – Powerful WordPress plugin for e-commerce functionality
 
-### Database:
-- MySQL
-- WAMPServer
+### 💻 Version Control
+- **Git** – Distributed version control for efficient project tracking
+- **GitHub** – Code hosting platform for collaboration and CI/CD integration
 
+### 🗄️ Database
+- **MySQL** – Reliable relational database management system
+- **WAMPServer** – Local development stack (Windows, Apache, MySQL, PHP)
 
 ## 🚀 About Me
 I'm a web developer specializing in **Laravel** and **WordPress**. I enjoy building powerful and scalable web applications, creating beautiful, responsive websites, and contributing to open-source projects.
