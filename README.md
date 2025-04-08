@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sabbir-sh.github.io/Onpage-Website/)
 
-- 📫 How to reach me *info.abunasim@gmail.com*
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wv_hhF5A2BENPllD2xa8Cjs7h4JWUjd_/view?usp=sharing](https://drive.google.com/file/d/1Wv_hhF5A2BENPllD2xa8Cjs7h4JWUjd_/view?usp=sharing)
+- 📫 How to reach me *sabbirhasan.web@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
