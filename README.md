@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm MD SABBIR HASAN</h1>
-<h3 align="center">Laravel & WordPress Developer</h3>
+# MD SABBIR HASAN 👨‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbir-sh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## Laravel & WordPress Developer
 
-<p align="center">
-  👨‍💻 All of my projects are available at  
-  <a href="https://sabbir-sh.github.io/Onpage-Website/" target="_blank">
-    <strong>My html Onpage-Website</strong>
-  </a>
-</p>
+Welcome to my GitHub profile! I'm **MD SABBIR HASAN**, a passionate **Laravel & WordPress Developer**. Below you'll find details about my work, skills, and contributions.
 
-<p align="center">
-  📫 How to reach me: <a href="mailto:sabbirhasan.web@gmail.com">sabbirhasan.web@gmail.com</a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-sh&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-sh" /> </p>
+
+## 🌟 Profile Links
+- [LinkedIn](https://www.linkedin.com/in/md-sabbir-hasan-42352218b)
+- 📧 Email: [sabbir.hasan.780@gmail.com](mailto:sabbir.hasan.780@gmail.com)
+
+## 💼 My Projects
+All of my projects can be found on my personal website and GitHub repositories:
+- [Website]([https://yourwebsite.com](https://sabbir-sh.github.io/Onpage-Website/)) (replace with actual URL)
+- [GitHub Repositories](https://github.com/sabbir-hasan) (replace with actual GitHub profile)
+
+## 🛠️ Technologies & Tools
+- **Backend**: Laravel, PHP
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5
+- **CMS**: WordPress, WooCommerce
+- **Version Control**: Git, GitHub
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir-hasan&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🚀 About Me
+I'm a web developer specializing in **Laravel** and **WordPress**. I enjoy building powerful and scalable web applications, creating beautiful, responsive websites, and contributing to open-source projects.
+
+---
+
+If you would like to collaborate on any project, feel free to reach out to me via email or LinkedIn!
