@@ -16,13 +16,29 @@ All of my projects can be found on my personal website and GitHub repositories:
 - [Onpage Website Project](https://sabbir-sh.github.io/Onpage-Website/)
 
 ## 🛠️ Technologies & Tools
-- **Backend**: Laravel, PHP
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5
-- **CMS**: WordPress, WooCommerce
-- **Version Control**: Git, GitHub
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir-hasan&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### Backend:
+- Laravel
+- PHP
+
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+
+### CMS:
+- WordPress
+- WooCommerce
+
+### Version Control:
+- Git
+- GitHub
+
+### Database:
+- MySQL
+- WAMPServer
+
 
 ## 🚀 About Me
 I'm a web developer specializing in **Laravel** and **WordPress**. I enjoy building powerful and scalable web applications, creating beautiful, responsive websites, and contributing to open-source projects.
