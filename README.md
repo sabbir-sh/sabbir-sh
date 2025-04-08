@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm **MD SABBIR HASAN**, a passionate **Laravel & 
 
 ## 💼 My Projects
 All of my projects can be found on my personal website and GitHub repositories:
-- [Website]([https://yourwebsite.com](https://sabbir-sh.github.io/Onpage-Website/)) (replace with actual URL)
-- [GitHub Repositories](https://github.com/sabbir-hasan) (replace with actual GitHub profile)
+- [Onpage Website Project](https://sabbir-sh.github.io/Onpage-Website/)
 
 ## 🛠️ Technologies & Tools
 - **Backend**: Laravel, PHP
