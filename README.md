@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm **MD SABBIR HASAN**, a passionate **Laravel & 
 - [Facebook](https://www.facebook.com/sabbir.hasan.780)
 - 📧 Email: [sabbirhasan.web@gmail.com](mailto:sabbirhasan.web@gmail.com)
 
-## 💼 My Projects
-All of my projects can be found on my personal website and GitHub repositories:
-- [Onpage Website Project](https://sabbir-sh.github.io/Onpage-Website/)
-
 ## 🛠️ Technologies & Tools
 
 This project utilizes a modern tech stack designed for performance, flexibility, and scalability in both frontend and backend development.
@@ -39,8 +35,7 @@ This project utilizes a modern tech stack designed for performance, flexibility,
 
 ### 🗄️ Database
 - **MySQL** – Reliable relational database management system
-- **WAMPServer** – Local development stack (Windows, Apache, MySQL, PHP)
-
+  
 ## 🚀 About Me
 I'm a web developer specializing in **Laravel** and **WordPress**. I enjoy building powerful and scalable web applications, creating beautiful, responsive websites, and contributing to open-source projects.
 
